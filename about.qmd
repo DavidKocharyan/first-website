@@ -1,5 +1,6 @@
 ---
 title: "About"
 ---
-
-David
+## About me
+My name is **David Kocharyan**, I am from **Armenia**.
+[Kane's Free Data Science Bootcamp](https://bootcamp.davidkane.info)
