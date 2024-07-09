@@ -1,2 +1,2 @@
 # first-website
-RStudio tutorials
+RStudio tutorials.
